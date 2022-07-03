@@ -1,0 +1,106 @@
+[class*="col-"] {
+    width: 100%;
+  }
+
+  .heading{
+    padding: 10px;
+    margin-top: 15px;
+}
+.man .heading h1, .woman .heading h1, .servicess h1, .feedback h1{
+  font-size: 1.5rem;
+}
+.man .heading h3, .woman .heading h3, .servicess h3, .feedback h3{
+  font-size: .9rem;
+}
+/* nav styling */
+/* rwd trying */
+/* #menuBar{
+  display: block;
+} */
+
+.nav2 .logo{
+    display:inline-block;
+    text-align: center;
+  }
+.menu{
+    display:none
+
+}
+.search{
+  display: block;
+  margin-top: 10px;
+  margin-right: 10px;
+
+}
+
+/* baner/promo style  */
+.banner .shopNow{
+  padding: 20px;
+  text-align: center;
+}
+.banner .shopNow h1{
+  font-size: 4rem;
+  margin-bottom: 10px;
+}
+
+.banner .shopNow .btn{
+  margin-top: 20px;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.banner .bannerCard img{
+  width: 100%;
+}
+
+/* card style  */
+.man{
+  margin: 10px;
+}
+
+.card{
+  width: 30%;
+  min-height: 400px;
+  
+}
+
+/* services style  */
+.allServices{
+  display: block;
+  float: none;
+}
+.service{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.serviceDetails{
+  display:block;
+  text-align: center;
+}
+.serviceDetails a{
+  font-size: 1.7rem;
+}
+.servicePoster img{
+    width: 60%;
+    margin-bottom: 15px; 
+}
+
+/* feedback style  */
+.comment{
+ margin-top: 20px;
+}
+.comment form button{
+  float: left;
+  margin-top:13px;
+  font-size: 1.3rem;
+}
+.socialMedia{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+/* footer style  */
+.linkSection{
+  text-align: center;
+}
+
